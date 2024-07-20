@@ -1,2 +1,12 @@
 # IAminuelle
- Virtual Assistent IA
+ Virtual Assistent IA Python developer
+
+Foco: 
+    Aprendizado fácil;
+    Aprendizado rápido;
+    Aprendizado expansível.
+
+Técnologias:
+    Reconhecimento de voz;
+    Sintese de voz;
+    Algum tipo de IA.
