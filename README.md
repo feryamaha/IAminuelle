@@ -8,6 +8,6 @@ Aprendizado rápido;
 Aprendizado expansível.
 
 Técnologias:
-Reconhecimento de voz (Google,);
+Reconhecimento de voz (Google para reconhecimento onlie, vosk para reconhecimento offline);
 Sintese de voz;
 Algum tipo de IA.

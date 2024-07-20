@@ -1,2 +1,3 @@
 SpeechRecognition==1.0.4
-automatic-speech-recognition==1.0.4
+Vosk==0.3.45 
+PyAudio== 0.2.14
